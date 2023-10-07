@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "E-Cormmerce Website 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A web app built with MongoDb, Express.Js, ReactJs and Node.Js. A payment gateway was also initialized in this app to",
+    url: "https://thegodman-yfjr.onrender.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Frontend Developer at Ratefy.co  🎉",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Played a key role in the development of pages featured on the Ratefy website, enhancing the platform with professional skills and elevating the user experience.",
+    url: "https://ratefy.co/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created with HTML, CSS and JavaScript. Deployed with netlify. Includes my experience and coding abilities.",
+    url: "https://akintemijoshua.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Food Delivery Site",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "An innovative food delivery application seamlessly integrated with the secure and efficient Paystack gateway for hassle-free payment processing",
+    url: "https://sparklingoodycreations.netlify.app/",
   },
 ];
 
